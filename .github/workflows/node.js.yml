@@ -26,7 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'yarn'
-    - run: yarn
+    - run: yarn  
     - run: yarn build
     
   deploy:
@@ -42,7 +42,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'public/*'
+          path: 'public'    
       - name: Deploy to GitHub Pages
-        id: deployment  
+        id: _deployment      
         uses: actions/deploy-pages@v4
