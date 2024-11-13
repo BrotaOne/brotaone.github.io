@@ -41,8 +41,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: 'public'    
+          # Upload entire repository  
+          name: my-blog
+          path: 'public'
       - name: Deploy to GitHub Pages
         id: _deployment      
         uses: actions/deploy-pages@v4
