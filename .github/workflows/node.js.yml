@@ -46,3 +46,4 @@ jobs:
           # Upload entire repository
           path: public/*  
           name: brota-blog
+          if-no-files-found: error
