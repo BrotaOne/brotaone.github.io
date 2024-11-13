@@ -45,5 +45,5 @@ jobs:
           name: my-blog
           path: 'public'
       - name: Deploy to GitHub Pages
-        id: _deployment      
+        id: deployment      
         uses: actions/deploy-pages@v4
