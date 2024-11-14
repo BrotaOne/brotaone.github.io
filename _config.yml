@@ -101,8 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-deploy:
   type: "git"
-  repo: "git@github.com:BrotaOne/BrotaOne.github.io.git"
+  repo: "git@github.com:BrotaOne/brotaone.github.io.git"
   branch: "master"
