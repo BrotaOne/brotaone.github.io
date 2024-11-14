@@ -65,7 +65,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: landscape
 widgets:
   - type: profile
     position: left

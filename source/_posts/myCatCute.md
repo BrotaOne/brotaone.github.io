@@ -12,34 +12,32 @@ tags:
 
 最近一两年，经常看见有人在朋友圈晒猫，唤起了我想养猫的想法，但是买猫却是一个难题。
 
-![123](./myCatcute/IMG_0657.JPG)
+![闲鱼上的聪明](IMG_0657.JPG)
 
-{% asset_img ./myCatcute/IMG_0657.JPG 闲鱼上的聪明 %}
+![闲鱼上的聪明](IMG_0658.JPG)
 
-{% asset_img IMG_0658.JPG "闲鱼上的聪明" %}
+![闲鱼上的聪明](IMG_0659.JPG)
 
-{% asset_img IMG_0659.JPG "闲鱼上的聪明" %}
-
-{% asset_img IMG_0216.jpeg "闲鱼上的聪明" %}
+![闲鱼上的聪明](IMG_0216.jpeg)
 
 
 # 刚到家
 
-{% asset_img IMG_0160.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0160.jpeg)
 
-{% asset_img IMG_0661.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0661.jpeg)
 
-{% asset_img IMG_0662.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0662.jpeg)
 
-{% asset_img IMG_0663.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0663.jpeg)
 
-{% asset_img IMG_0190.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0190.jpeg)
 
-{% asset_img IMG_0191.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0191.jpeg)
 
-{% asset_img IMG_0192.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0192.jpeg)
 
-{% asset_img IMG_0193.jpeg "刚到家的聪明" %}
+![闲鱼上的聪明](IMG_0193.jpeg)
 
 
 
