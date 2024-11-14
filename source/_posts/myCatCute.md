@@ -12,7 +12,9 @@ tags:
 
 最近一两年，经常看见有人在朋友圈晒猫，唤起了我想养猫的想法，但是买猫却是一个难题。
 
-{% asset_img IMG_0657.JPG "闲鱼上的聪明" %}
+![123](./myCatcute/IMG_0657.JPG)
+
+{% asset_img ./myCatcute/IMG_0657.JPG 闲鱼上的聪明 %}
 
 {% asset_img IMG_0658.JPG "闲鱼上的聪明" %}
 
