@@ -7,7 +7,7 @@ subtitle: 一个程序员的博客
 description: 又菜又爱玩
 keywords: 程序员 游戏
 author: Brota Gong
-language: zh-cn
+language: zh-CN
 timezone: ''
 url: https://brotaone.github.io/
 permalink: ':year/:month/:day/:title/'
@@ -65,12 +65,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: landscape
-widgets:
-  - type: profile
-    position: left
-  - type: recent_posts
-    position: right
+theme: artemis
 deploy:
   type: git
   repo: git@github.com:BrotaOne/brotaone.github.io.git
